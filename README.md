@@ -6,4 +6,4 @@
 
 ⬇️ Download the tutorial worlds at https://www.theminecraftarchitect.com/tutorial-worlds
 
-⌨️ Please report any conversion issues in the tab above! Thank you :)
+⌨️ Please report any conversion issues in the `issues` tab above! Thank you :)
